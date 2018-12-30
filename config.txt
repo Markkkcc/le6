@@ -1,5 +1,5 @@
 token=NDkzMTM3MzgyMDE1NzYyNDM1.Doglug.Smn93AcqdW2WIIy8lEmO_bCBJJc
 owner=466858375544832001 
-prefix=ki
-game=kiplay
+prefix=6
+game=6play|Looks.
 stayinchannel=true
